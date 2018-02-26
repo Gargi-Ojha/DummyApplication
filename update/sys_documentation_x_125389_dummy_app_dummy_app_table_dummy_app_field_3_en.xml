@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="dummy_app_field_3" label="Dummy App Field 3" language="en" table="x_125389_dummy_app_dummy_app_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>dummy_app_field_3</element>
+            <help/>
+            <hint/>
+            <label>Dummy App Field 3</label>
+            <language>en</language>
+            <name>x_125389_dummy_app_dummy_app_table</name>
+            <plural>Dummy App Field 3s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-26 07:14:47</sys_created_on>
+            <sys_id>21c5468ddb60130034dddec0cf9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Dummy App Field 3</sys_name>
+            <sys_package display_value="Dummy Application" source="x_125389_dummy_app">f5f38241db60130034dddec0cf961938</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Dummy Application">f5f38241db60130034dddec0cf961938</sys_scope>
+            <sys_update_name>sys_documentation_x_125389_dummy_app_dummy_app_table_dummy_app_field_3_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-26 07:14:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

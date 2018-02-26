@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Dummy App Table" max_length="40" name="x_125389_dummy_app_dummy_app_table" type="collection">
+        <element label="Dummy App Field 1" max_length="100" name="dummy_app_field_1" type="string"/>
+        <element label="Dummy App Field 2" max_length="40" name="dummy_app_field_2" type="glide_date"/>
+        <element label="Dummy App Field 3" max_length="32" name="dummy_app_field_3" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="dummy_app_field_3"/>
+        </index>
+    </element>
+</database>
