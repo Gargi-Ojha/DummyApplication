@@ -8,7 +8,6 @@
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_125389_dummy_app.dummy_app_table_user</name>
-        <scoped_admin>false</scoped_admin>
         <suffix>dummy_app_table_user</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
